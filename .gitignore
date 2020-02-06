@@ -1,0 +1,11 @@
+# class files
+targets/
+output/
+
+# ide configure
+.idea/*
+
+# ignore macOS files
+.DS_Store
+*/.DS_Store
+#./src/date20191231/.DS_Store
